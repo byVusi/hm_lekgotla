@@ -76,6 +76,7 @@ header h2 {
 	height: 13.1875rem;
 	background-color: var(--blue);
 	opacity: 0.5;
+	z-index: -1;
 }
 main {
 	height: calc(100vh - 13.1875rem);
